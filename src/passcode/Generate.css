@@ -1,0 +1,39 @@
+.passcode-wrapper{
+    height: 250px;
+    width: 450px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+.display-passcode{
+    height: 25px;
+    width: 250px;
+    padding: 5px;
+    font-size: 20px;
+    border: 1.5px solid black;
+    text-align: center;
+}
+.header-wrapper{
+    margin: 0px;
+}
+.btn-wrapper{
+    height: 25px;
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+span{
+    opacity: 0.3;
+}
+button{
+    height: 30px;
+    width: auto;
+    background-color: #8cc3fb;
+    font-weight: 550;
+    font-size: 17px;
+    border: 1px solid #8cc3fb;
+    border-radius: 5px;
+}
